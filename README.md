@@ -40,6 +40,16 @@ CodeAlpha_StudentManagementSystem/
 │── LICENSE
 │── .gitignore
 └── screenshots/
+   │── menu.png
+   │── add.png
+   │── display.png
+   │── search.png
+   │── update.png
+   │── delete.png
+   │── total.png
+   │── topper.png
+   │── clear.png
+   │── exit.png
 
 ```
 
